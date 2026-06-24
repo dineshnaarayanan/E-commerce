@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "json_c9xgf73pq",
+    "id": "c1",
+    "name": "Eleanor Vance",
+    "email": "eleanor.vance@example.com",
+    "phone": "+1 (555) 019-2834",
+    "location": "Portland, OR, USA",
+    "password": "password123",
+    "orderCount": 3,
+    "totalSpent": 474.96,
+    "createdAt": "2026-06-24T04:18:55.867Z",
+    "updatedAt": "2026-06-24T04:18:55.867Z"
+  },
+  {
+    "_id": "json_hhw3v8ria",
+    "id": "c2",
+    "name": "Marcus Aurelius",
+    "email": "marcus.aurelius@example.com",
+    "phone": "+1 (555) 124-7762",
+    "location": "New York, NY, USA",
+    "password": "password123",
+    "orderCount": 2,
+    "totalSpent": 328.99,
+    "createdAt": "2026-06-24T04:18:55.867Z",
+    "updatedAt": "2026-06-24T04:18:55.867Z"
+  },
+  {
+    "_id": "json_nr08w2etl",
+    "id": "c3",
+    "name": "Sophia Lin",
+    "email": "sophia.lin@example.com",
+    "phone": "+1 (555) 892-1209",
+    "location": "San Francisco, CA, USA",
+    "password": "password123",
+    "orderCount": 1,
+    "totalSpent": 110,
+    "createdAt": "2026-06-24T04:18:55.867Z",
+    "updatedAt": "2026-06-24T04:18:55.867Z"
+  },
+  {
+    "_id": "json_9zaip9uuc",
+    "id": "c4",
+    "name": "David Koomson",
+    "email": "david.koomson@example.com",
+    "phone": "+1 (555) 431-9028",
+    "location": "Houston, TX, USA",
+    "password": "password123",
+    "orderCount": 1,
+    "totalSpent": 129.99,
+    "createdAt": "2026-06-24T04:18:55.867Z",
+    "updatedAt": "2026-06-24T04:18:55.867Z"
+  },
+  {
+    "_id": "json_qhwm0kduh",
+    "id": "c5",
+    "name": "Isabella Rossi",
+    "email": "isabella.rossi@example.com",
+    "phone": "+1 (555) 302-8817",
+    "location": "Miami, FL, USA",
+    "password": "password123",
+    "orderCount": 1,
+    "totalSpent": 89.5,
+    "createdAt": "2026-06-24T04:18:55.867Z",
+    "updatedAt": "2026-06-24T04:18:55.867Z"
+  },
+  {
+    "_id": "json_vzxuaqfv8",
+    "id": "c_1782276283263",
+    "name": "Test Customer",
+    "email": "test.cust@example.com",
+    "phone": "9999999999",
+    "location": "123 Street Road",
+    "password": "password123",
+    "orderCount": 5,
+    "totalSpent": 8100,
+    "createdAt": "2026-06-24T04:44:43.265Z",
+    "updatedAt": "2026-06-24T04:55:17.613Z"
+  }
+]
